@@ -1,0 +1,2186 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PropertyShift\n"
+"POT-Creation-Date: 2019-12-22 20:44-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Nightshift Creative\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/classes/class-propertyshift-admin.php:89
+msgid "I am interested in this property and would like to know more."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:90
+msgid "Thanks! Your email has been delivered!"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:91
+msgid "Contact Agent"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:128
+#: includes/classes/class-propertyshift-agents.php:400
+#: includes/classes/class-propertyshift-agents.php:523
+#: includes/classes/class-propertyshift-agents.php:524
+#: includes/classes/class-propertyshift-properties.php:110
+#: includes/classes/class-propertyshift-shortcodes.php:138
+#: includes/classes/class-propertyshift-shortcodes.php:157
+#: includes/classes/widgets/list_property_categories_widget.php:52
+#: includes/templates/loop_agent.php:44
+msgid "Properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:129
+msgid "Agents & Users"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:130
+#: includes/classes/class-propertyshift-admin.php:613
+msgid "Currency & Numbers"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:139
+msgid "The active theme ("
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:139
+msgid "Get a compatible theme"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:145
+msgid ""
+"You have not set your properties listing page. Go to Properties > Property "
+"Listing Options, to set this field."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:174
+msgid "Properties Settings"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:177
+msgid "Property URL Options"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:180
+msgid ""
+"After changing slugs, make sure you re-save your permalinks in Settings > "
+"Permalinks."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:185
+msgid "Properties Slug"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:187
+msgid "Default: properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:194
+msgid "Property Type Taxonomy Slug"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:196
+msgid "Default: property-type"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:203
+msgid "Property Status Taxonomy Slug"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:205
+msgid "Default: property-status"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:212
+msgid "Property Neighborhood Taxonomy Slug"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:214
+msgid "Default: neighborhood"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:221
+msgid "Property City Taxonomy Slug"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:223
+msgid "Default: city"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:230
+msgid "Property State Taxonomy Slug"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:232
+msgid "Default: state"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:239
+msgid "Property Amenities Taxonomy Slug"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:241
+msgid "Default: property-amenity"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:251
+msgid "Property Filter Options"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:255
+msgid "Display Property Filter in Page Banners"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:263
+msgid "Default Banner Filter"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:265
+msgid ""
+"This can be overriden on individual pages from the page settings meta box."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:276
+msgid "Property Listing Options"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:284
+msgid "Select Your Property Listings Page"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:293
+msgid "Number of Properties Per Page"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:301
+msgid "Properties Taxonomy Layout"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:306
+#: includes/wp-bakery/wp-bakery.php:129
+msgid "Grid"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:307
+msgid "Row"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:313
+msgid "Display Listing Header?"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:315
+msgid ""
+"Toggle on/off the filter options that display directly above property "
+"listings."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:322
+msgid "Default Sort By"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:324
+msgid "Choose the default sorting for property listings."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:328
+#: includes/templates/property-listing-header.php:26
+msgid "New to Old"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:329
+#: includes/templates/property-listing-header.php:27
+msgid "Old to New"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:330
+#: includes/templates/property-listing-header.php:28
+msgid "Price (High to Low)"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:331
+#: includes/templates/property-listing-header.php:29
+msgid "Price (Low to High)"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:338
+msgid "If active, property listing thumbnails will be cropped to: "
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:340
+msgid "Hard crop property listing featured images?"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:349
+msgid "Display Time Stamp?"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:357
+msgid "Allow users to favorite properties?"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:365
+msgid "Allow users to share properties?"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:376
+msgid "Property Detail Options"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:381
+msgid "Select the default page layout for property detail pages"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:386
+#: includes/classes/class-propertyshift-filters.php:95
+msgid "Full Width"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:387
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:388
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:394
+msgid "Show Property Code on Front-End"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:402
+msgid "Property Detail Layout"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:404
+#: includes/classes/class-propertyshift-admin.php:499
+msgid "Drag & drop the sections to rearrange their order"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:410
+msgid "Hide empty amenities?"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:417
+msgid "Display agent contact form underneath agent information?"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:419
+msgid "Configure the agent contact form options in the Agent Settings tab."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:437
+msgid "Agent & User Settings"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:440
+msgid "Agent Listing Options"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:445
+msgid "Number of Agents Per Page"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:453
+msgid "Hard crop agent listing featured images?"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:455
+msgid ""
+"If active, agent listing thumbnails will be cropped to 800 x 600 pixels."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:465
+msgid "Agent Profile Options"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:470
+msgid "Agent Profile Slug"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:472
+msgid ""
+"After changing the slug, make sure you re-save your permalinks in Settings > "
+"Permalinks. The default slug is agents."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:487
+msgid "Select Agent Profile Page"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:489
+msgid "Create a page and add the [ps_agent_profile] shortcode."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:497
+msgid "Agent Profile Layout"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:505
+msgid "Message Placeholder on Property Pages"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:512
+msgid "Success Message"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:519
+#: includes/classes/class-propertyshift-filters.php:149
+msgid "Submit Button Text"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:534
+msgid "Agent Capabilities"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:539
+msgid "Automatically show agents in listing on registration"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:541
+msgid ""
+"When users register as an agent role, their profile will automatically "
+"appear in agent listings."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:548
+msgid "Agent property submissions must be approved before being published"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:556
+msgid "Agents can manage property types"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:564
+msgid "Agents can manage property statuses"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:572
+msgid "Agents can manage property neighborhoods"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:580
+msgid "Agents can manage property cities"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:588
+msgid "Agents can manage property states"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:596
+msgid "Agent can manage property amenities"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:617
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:625
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:629
+msgid "Display before price"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:629
+msgid "Display after price"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:634
+msgid "Thousand Separator"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:642
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:650
+msgid "Number of Decimals"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:659
+msgid "Area Formatting"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:661
+msgid "Deafult Area Postfix"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:669
+msgid "Area Thousand Separator"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:677
+msgid "Area Decimal Separator"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:685
+msgid "Area Number of Decimals"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:749
+msgid ""
+"There was an issue connecting to the add-ons store. Get more information "
+"about our add-ons"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:777
+msgid ""
+"All premium add-ons require a valid license key for updates and support."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:778
+msgid ""
+"Your licenses keys can be found in your account on the Nightshift Products "
+"website."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:806
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:807
+msgid "Add-Ons"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:808
+msgid "License Keys"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:809
+msgid "Help"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:841
+#: includes/classes/widgets/list_agents_widget.php:67
+#: includes/classes/widgets/list_properties_widget.php:132
+#: includes/classes/widgets/list_property_categories_widget.php:112
+#: includes/classes/widgets/mortgage_widget.php:51
+#: includes/classes/widgets/property_filter_widget.php:64 propertyshift.php:140
+msgid "Title:"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:842 propertyshift.php:141
+msgid "Size:"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:843
+msgid "Rooms:"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:844 propertyshift.php:143
+msgid "Bathrooms:"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:847 propertyshift.php:145
+msgid "Description:"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:850 propertyshift.php:144
+msgid "Image:"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:852
+#: includes/classes/class-propertyshift-properties.php:831
+#: propertyshift.php:139
+msgid "Upload Image"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:853
+#: includes/classes/class-propertyshift-properties.php:832
+#: propertyshift.php:137
+msgid "Remove"
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:864
+msgid "No floor plans were found."
+msgstr ""
+
+#: includes/classes/class-propertyshift-admin.php:865
+msgid "Create New Floor Plan"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:219
+msgid "Agent Information"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:225
+msgid "Agent Actions"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:228
+msgid "Manage Properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:234
+msgid "View Profile"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:241
+msgid "Show in Agent Listings"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:253
+msgid "Job Title"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:256
+msgid "Provide the agents job title. For example: Broker"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:263
+msgid "Mobile Phone"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:266
+msgid "Provide the agents mobile phone number."
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:273
+msgid "Office Phone"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:276
+msgid "Provide the agents office phone number."
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:283
+msgid "Facebook"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:286
+msgid "Provide the agents Facebook profile URL."
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:293
+msgid "Twitter"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:296
+msgid "Provide the agents Twitter profile URL."
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:303
+msgid "Linkedin"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:306
+msgid "Provide the agents Linkedin profile URL."
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:313
+msgid "Google Plus"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:316
+msgid "Provide the agents Google Plus profile URL."
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:323
+msgid "Youtube"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:326
+msgid "Provide the agents Youtube profile URL."
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:333
+msgid "Instagram"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:336
+msgid "Provide the agents Instagram profile URL."
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:344
+msgid "Agent Contact Form"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:354
+msgid "Contact Form 7 ID"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:357
+msgid "Provide the Contact Form 7 ID."
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:502
+#: includes/classes/class-propertyshift-agents.php:503
+#: includes/classes/class-propertyshift-properties.php:1133
+#: includes/classes/class-propertyshift-properties.php:1134
+msgid "Overview"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:509
+#: includes/classes/class-propertyshift-agents.php:510
+#: includes/classes/class-propertyshift-properties.php:383
+#: includes/classes/class-propertyshift-properties.php:424
+#: includes/classes/class-propertyshift-properties.php:1140
+#: includes/classes/class-propertyshift-properties.php:1141
+msgid "Description"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:516
+#: includes/classes/class-propertyshift-agents.php:517
+msgid "Contact"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:642
+msgid "Pending Properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:646
+msgid "Published Properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:650
+msgid "Saved Posts"
+msgstr ""
+
+#: includes/classes/class-propertyshift-agents.php:660
+msgid "Your Recent Properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:43
+msgid "Property Filters"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:44
+#: includes/wp-bakery/wp-bakery.php:171
+msgid "Property Filter"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:45
+msgid "Add New Property Filter"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:46
+msgid "Search Property Filters"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:47
+msgid "Edit Property Filter"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:70
+#: includes/classes/class-propertyshift-filters.php:329
+msgid "Shortcode"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:71
+msgid "Copy/paste it into your post, page, or text widget content."
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:78
+msgid "Page Banner Position"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:80
+msgid "Choose the where the filter will display relative to page banners."
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:83
+msgid "Above Banner"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:84
+msgid "Inside Banner"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:85
+msgid "Below Banner"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:90
+msgid "Filter Layout"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:92
+msgid "Choose a layout to for the filter."
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:96
+msgid "Minimal"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:97
+msgid "Boxed"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:98
+msgid "Vertical"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:103
+msgid "Display Filter Tabs"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:105
+msgid "Will display tabs to switch between available property statuses."
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:110
+msgid "Filter Fields"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:112
+msgid "Drag and drop to rearrange order."
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:119
+msgid "Price Range Minimum"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:126
+msgid "Price Range Maximum"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:133
+msgid "Price Range Minimum Start"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:140
+msgid "Price Range Maximum Start"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:152
+msgid "Find Properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:223
+#: includes/classes/class-propertyshift-filters.php:224
+#: includes/classes/class-propertyshift-properties.php:587
+#: includes/classes/widgets/list_property_categories_widget.php:132
+#: includes/wp-bakery/wp-bakery.php:65 includes/wp-bakery/wp-bakery.php:111
+msgid "Property Type"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:225
+#: includes/classes/class-propertyshift-filters.php:232
+#: includes/classes/class-propertyshift-filters.php:239
+#: includes/classes/class-propertyshift-filters.php:252
+#: includes/classes/class-propertyshift-filters.php:259
+#: includes/classes/class-propertyshift-filters.php:274
+#: includes/classes/class-propertyshift-filters.php:281
+#: includes/templates/property-filter-minimal.php:223
+#: includes/templates/property-filter-minimal.php:240
+msgid "Any"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:230
+#: includes/classes/class-propertyshift-filters.php:231
+#: includes/classes/class-propertyshift-properties.php:612
+#: includes/classes/class-propertyshift-properties.php:618
+#: includes/classes/widgets/list_property_categories_widget.php:133
+#: includes/wp-bakery/wp-bakery.php:59 includes/wp-bakery/wp-bakery.php:112
+msgid "Property Status"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:237
+#: includes/classes/class-propertyshift-filters.php:238
+#: includes/classes/widgets/list_property_categories_widget.php:135
+#: includes/wp-bakery/wp-bakery.php:77 includes/wp-bakery/wp-bakery.php:114
+msgid "Property City"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:244
+#: includes/classes/class-propertyshift-filters.php:245
+msgid "Price Range"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:250
+#: includes/classes/class-propertyshift-filters.php:251
+#: includes/classes/class-propertyshift-properties.php:204
+msgid "Bedrooms"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:257
+#: includes/classes/class-propertyshift-filters.php:258
+#: includes/classes/class-propertyshift-properties.php:213
+#: includes/templates/loop_property_single.php:259
+msgid "Bathrooms"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:264
+#: includes/classes/class-propertyshift-filters.php:265
+#: includes/classes/class-propertyshift-properties.php:232
+#: includes/templates/loop_property_single.php:210
+msgid "Area"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:266
+msgid "Min"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:267
+msgid "Max"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:272
+#: includes/classes/class-propertyshift-filters.php:273
+#: includes/classes/widgets/list_property_categories_widget.php:134
+#: includes/wp-bakery/wp-bakery.php:71 includes/wp-bakery/wp-bakery.php:113
+msgid "Property Neighborhood"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:279
+#: includes/classes/class-propertyshift-filters.php:280
+#: includes/classes/widgets/list_property_categories_widget.php:136
+#: includes/wp-bakery/wp-bakery.php:83 includes/wp-bakery/wp-bakery.php:115
+msgid "Property State"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:328
+#: includes/classes/class-propertyshift-properties.php:111
+#: includes/classes/class-propertyshift-properties.php:745
+#: includes/templates/loop_agent.php:44
+msgid "Property"
+msgstr ""
+
+#: includes/classes/class-propertyshift-filters.php:330
+#: includes/classes/class-propertyshift-properties.php:752
+#: includes/classes/widgets/list_property_categories_widget.php:153
+msgid "Date"
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:54
+#: includes/classes/class-propertyshift-license-keys.php:86
+#: includes/classes/class-propertyshift-license-keys.php:128
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:64
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:70
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:73
+msgid "Invalid license."
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:77
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:80
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:83
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:177
+msgid "License"
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:178
+#: includes/plugins/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:185
+msgid "License Key"
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:186
+msgid "Enter your license key here."
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:194
+msgid "Deactivate to modify license key"
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:203
+msgid "License Actions"
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:207
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/classes/class-propertyshift-license-keys.php:210
+msgid "Activate License"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:112
+msgid "Add New Property"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:113
+msgid "Search Properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:114
+msgid "Edit Property"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:159
+msgid "Selet a country"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:170
+#: includes/templates/loop_property_single.php:100
+#: includes/templates/loop_property_single.php:207
+msgid "Property Code"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:171
+msgid "An optional string to used to identify properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:179
+msgid "Featured Property"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:187
+#: includes/classes/class-propertyshift-properties.php:750
+msgid "Price"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:189
+msgid "Use only numbers. Do not include commas or dollar sign (ex.- 250000)"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:196
+msgid "Price Postfix"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:198
+msgid "Provide the text displayed after the price (ex.- Per Month)"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:206
+msgid "Provide the number of bedrooms"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:215
+msgid "Provide the number of bathrooms"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:223
+#: includes/templates/loop_property_single.php:211
+msgid "Garages"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:225
+msgid "Provide the number of garages"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:234
+msgid "Provide the area. Use only numbers and decimals, do not include commas."
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:242
+msgid "Area Postfix"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:244
+msgid "Provide the text to display directly after the area (ex. - Sq Ft)"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:251
+msgid "Street Address"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:254
+msgid ""
+"Provide <strong>only</strong> the street address. Use the categories to the "
+"right to select city & state"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:260
+msgid "Postal Code"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:262
+msgid "Provide the postal code for the property"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:268
+msgid "Country"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:270
+msgid "Provide the country for the property"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:277
+msgid "Latitude"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:280
+#: includes/classes/class-propertyshift-properties.php:291
+#, php-format
+msgid ""
+"Used only for add-ons, such as <a href=\"%s\" target=\"_blank\">Advanced "
+"Maps</a>"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:288
+msgid "Longitude"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:323
+msgid "Video URL"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:330
+msgid "Video Cover Image"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:338
+msgid "Select an Agent"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:348
+msgid "Display Agent Info on Listing"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:349
+msgid "If checked, the agents info will be publicly displayed on the listing"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:381
+#: includes/classes/class-propertyshift-properties.php:398
+msgid "General Info"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:382
+#: includes/classes/class-propertyshift-properties.php:411
+#: includes/classes/class-propertyshift-properties.php:747
+msgid "Location"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:384
+#: includes/classes/class-propertyshift-properties.php:437
+#: includes/classes/class-propertyshift-properties.php:1154
+#: includes/classes/class-propertyshift-properties.php:1155
+msgid "Gallery"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:385
+#: includes/classes/class-propertyshift-properties.php:450
+#: includes/classes/class-propertyshift-properties.php:1182
+#: includes/classes/class-propertyshift-properties.php:1183
+msgid "Floor Plans"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:386
+#: includes/classes/class-propertyshift-properties.php:463
+#: includes/classes/class-propertyshift-properties.php:1168
+#: includes/classes/class-propertyshift-properties.php:1169
+msgid "Video"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:387
+msgid "Contacts"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:392
+#: includes/templates/agent_contact_form.php:105
+msgid "Loading..."
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:476
+msgid "Primary Agent"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:521
+#: includes/templates/loop_property_grid.php:76
+#: includes/templates/loop_property_single.php:118
+#: includes/templates/loop_property_single.php:208
+msgid "Beds"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:525
+#: includes/templates/loop_property_grid.php:77
+#: includes/templates/loop_property_single.php:119
+#: includes/templates/loop_property_single.php:209
+msgid "Baths"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:529
+#: includes/classes/class-propertyshift-properties.php:751
+msgid "Assigned Agent"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:566
+msgid "Search"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:567
+msgid "Popular"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:568
+#: includes/classes/widgets/list_properties_widget.php:144
+#: includes/classes/widgets/list_properties_widget.php:158
+#: includes/classes/widgets/list_properties_widget.php:172
+#: includes/classes/widgets/list_properties_widget.php:186
+#: includes/classes/widgets/list_properties_widget.php:200
+#: includes/templates/property-filter.php:91
+#: includes/templates/property-filter.php:99
+msgid "All"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:569
+msgid "Parent"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:570
+#: propertyshift.php:138
+msgid "Edit"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:571
+#: includes/plugins/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:572
+msgid "Add New"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:573
+msgid "New"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:574
+#, php-format
+msgid "Separate %s with commas"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:575
+msgid "Add or remove"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:576
+msgid "Choose from most used"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:587
+#: includes/classes/class-propertyshift-properties.php:593
+msgid "Property Types"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:612
+msgid "Property Statuses"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:637
+#: includes/classes/class-propertyshift-properties.php:643
+msgid "City"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:637
+msgid "Cities"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:662
+#: includes/classes/class-propertyshift-properties.php:668
+msgid "State"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:662
+msgid "States"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:687
+#: includes/classes/class-propertyshift-properties.php:693
+msgid "Neighborhood"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:687
+msgid "Neighborhoods"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:712
+msgid "Amenity"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:712
+#: includes/classes/class-propertyshift-properties.php:718
+#: includes/classes/class-propertyshift-properties.php:1175
+#: includes/classes/class-propertyshift-properties.php:1176
+msgid "Amenities"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:746
+msgid "Image"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:748
+#: includes/plugins/class-tgm-plugin-activation.php:2642
+#: includes/templates/loop_property_single.php:213
+msgid "Type"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:749
+#: includes/plugins/class-tgm-plugin-activation.php:2647
+#: includes/templates/loop_property_single.php:212
+msgid "Status"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:827
+msgid "Category Image Url"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:833
+msgid "Image for Term, use full url"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:850
+msgid "Price Range Settings"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:851
+msgid ""
+"Settings here will override the defaults configured in the plugin settings."
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:855
+msgid "Minimum"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:859
+msgid "Maximum"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:863
+msgid "Minimum Start"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:867
+msgid "Maximum Start"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1092
+msgid "Use Custom Property Filter Settings"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1094
+msgid ""
+"The global property filter settings can be configured in PropertyShift > "
+"Settings"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1100
+msgid "Display Property Filter"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1106
+#: includes/classes/widgets/property_filter_widget.php:69
+msgid "Select a Filter"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1147
+#: includes/classes/class-propertyshift-properties.php:1148
+msgid "Address"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1161
+#: includes/classes/class-propertyshift-properties.php:1162
+msgid "Property Details"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1189
+#: includes/classes/class-propertyshift-properties.php:1190
+msgid "Walk Score"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1196
+msgid "Agent Info"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1203
+msgid "Related Properties"
+msgstr ""
+
+#: includes/classes/class-propertyshift-properties.php:1261
+msgid "Properties Sidebar"
+msgstr ""
+
+#: includes/classes/class-propertyshift-shortcodes.php:87
+#: includes/classes/widgets/list_properties_widget.php:95
+#: includes/templates/loop_agent_single.php:167
+#: includes/templates/loop_properties.php:255
+msgid "Sorry, no properties were found."
+msgstr ""
+
+#: includes/classes/widgets/list_agents_widget.php:12
+msgid "Display a list of agents."
+msgstr ""
+
+#: includes/classes/widgets/list_agents_widget.php:15
+msgid "(PropertyShift) List Agents"
+msgstr ""
+
+#: includes/classes/widgets/list_agents_widget.php:72
+msgid "Number of Agents:"
+msgstr ""
+
+#: includes/classes/widgets/list_agents_widget.php:77
+#: includes/classes/widgets/list_properties_widget.php:212
+msgid "Sort By:"
+msgstr ""
+
+#: includes/classes/widgets/list_agents_widget.php:79
+#: includes/classes/widgets/list_properties_widget.php:214
+msgid "Most Recent"
+msgstr ""
+
+#: includes/classes/widgets/list_agents_widget.php:80
+msgid "Display Name"
+msgstr ""
+
+#: includes/classes/widgets/list_agents_widget.php:85
+#: includes/classes/widgets/list_property_categories_widget.php:142
+msgid "Order:"
+msgstr ""
+
+#: includes/classes/widgets/list_agents_widget.php:87
+#: includes/classes/widgets/list_property_categories_widget.php:145
+#: includes/wp-bakery/wp-bakery.php:154
+msgid "Ascending"
+msgstr ""
+
+#: includes/classes/widgets/list_agents_widget.php:88
+#: includes/classes/widgets/list_property_categories_widget.php:144
+#: includes/wp-bakery/wp-bakery.php:153
+msgid "Descending"
+msgstr ""
+
+#: includes/classes/widgets/list_properties_widget.php:12
+msgid "Display a list of properties."
+msgstr ""
+
+#: includes/classes/widgets/list_properties_widget.php:15
+msgid "(PropertyShift) List Properties"
+msgstr ""
+
+#: includes/classes/widgets/list_properties_widget.php:137
+msgid "Number of Properties:"
+msgstr ""
+
+#: includes/classes/widgets/list_properties_widget.php:142
+msgid "Property Status:"
+msgstr ""
+
+#: includes/classes/widgets/list_properties_widget.php:156
+#: includes/templates/loop_property_single.php:101
+msgid "Property Type:"
+msgstr ""
+
+#: includes/classes/widgets/list_properties_widget.php:170
+msgid "Property Neighborhood:"
+msgstr ""
+
+#: includes/classes/widgets/list_properties_widget.php:184
+msgid "Property City:"
+msgstr ""
+
+#: includes/classes/widgets/list_properties_widget.php:198
+msgid "Property State:"
+msgstr ""
+
+#: includes/classes/widgets/list_properties_widget.php:215
+#: includes/templates/loop_property_grid.php:33
+#: includes/templates/loop_property_single.php:96
+msgid "Featured"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:12
+msgid "Display a list of property categories."
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:15
+msgid "(PropertyShift) List Property Categories"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:117
+msgid "Number of Categories:"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:122
+msgid "Listing Layout:"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:124
+msgid "Tile"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:125
+msgid "List"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:130
+msgid "Category:"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:137
+msgid "Property Amenities"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:150
+msgid "Order By:"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:152
+#: includes/wp-bakery/wp-bakery.php:144
+msgid "Count"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:154
+#: includes/templates/loop_agent_single.php:88
+msgid "Title"
+msgstr ""
+
+#: includes/classes/widgets/list_property_categories_widget.php:160
+msgid "Show Count"
+msgstr ""
+
+#: includes/classes/widgets/mortgage_widget.php:12
+msgid "Display a mortgage calculator."
+msgstr ""
+
+#: includes/classes/widgets/mortgage_widget.php:15
+msgid "(PropertyShift) Mortgage Calculator"
+msgstr ""
+
+#: includes/classes/widgets/property_filter_widget.php:13
+msgid "Display property filter."
+msgstr ""
+
+#: includes/classes/widgets/property_filter_widget.php:16
+msgid "(PropertyShift) Property Filter"
+msgstr ""
+
+#: includes/classes/widgets/property_filter_widget.php:85
+msgid "Manage property filters"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:393
+#: includes/plugins/class-tgm-plugin-activation.php:920
+#: includes/plugins/class-tgm-plugin-activation.php:2626
+#: includes/plugins/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:394
+#: includes/plugins/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:395
+#: includes/plugins/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1027
+#: includes/plugins/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1214
+#: includes/plugins/class-tgm-plugin-activation.php:3041
+msgid "and"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2575
+msgid "unknown"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3602
+#: includes/plugins/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3602
+#: includes/plugins/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: includes/plugins/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/plugins/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: includes/plugins/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:213
+#, php-format
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: includes/plugins/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:215
+#, php-format
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: includes/plugins/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:217
+#, php-format
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: includes/plugins/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: includes/plugins/plugin-update-checker/Puc/v4p5/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: includes/templates/agent_contact_form.php:17
+msgid "Message"
+msgstr ""
+
+#: includes/templates/agent_contact_form.php:29
+msgid "Forgot your name!"
+msgstr ""
+
+#: includes/templates/agent_contact_form.php:37
+msgid "Forgot to enter in your e-mail address."
+msgstr ""
+
+#: includes/templates/agent_contact_form.php:48
+msgid "You forgot to enter a message!"
+msgstr ""
+
+#: includes/templates/agent_contact_form.php:87
+#: includes/wp-bakery/wp-bakery.php:145
+msgid "Name"
+msgstr ""
+
+#: includes/templates/agent_contact_form.php:92
+#: includes/templates/loop_agent_single.php:89
+msgid "Email"
+msgstr ""
+
+#: includes/templates/loop_agent_single.php:82
+msgid "Assigned Property"
+msgstr ""
+
+#: includes/templates/loop_agent_single.php:82
+msgid "Assigned Properties"
+msgstr ""
+
+#: includes/templates/loop_agent_single.php:90
+msgid "Mobile"
+msgstr ""
+
+#: includes/templates/loop_agent_single.php:91
+msgid "Office"
+msgstr ""
+
+#: includes/templates/loop_agent_single.php:92
+msgid "Website"
+msgstr ""
+
+#: includes/templates/loop_agent_single.php:96
+msgid "Message Agent"
+msgstr ""
+
+#: includes/templates/loop_agents.php:57
+msgid "Sorry, no agents were found."
+msgstr ""
+
+#: includes/templates/loop_agents.php:72
+#: includes/templates/loop_properties.php:228
+msgid "&raquo; Previous"
+msgstr ""
+
+#: includes/templates/loop_agents.php:73
+#: includes/templates/loop_properties.php:229
+msgid "Next &raquo;"
+msgstr ""
+
+#: includes/templates/loop_properties.php:258
+#, php-format
+msgid ""
+"<em><b><a href=\"%s\" target=\"_blank\"> Click here</a> to add a new "
+"property.</b></em>"
+msgstr ""
+
+#: includes/templates/loop_property_grid.php:56
+#: includes/templates/loop_property_single.php:106
+msgid " ago"
+msgstr ""
+
+#: includes/templates/loop_property_single.php:214
+msgid "Posted On"
+msgstr ""
+
+#: includes/templates/loop_property_single.php:257
+msgid "Size"
+msgstr ""
+
+#: includes/templates/loop_property_single.php:258
+msgid "Rooms"
+msgstr ""
+
+#: includes/templates/loop_property_single.php:305
+msgid "View More Details"
+msgstr ""
+
+#: includes/templates/loop_property_single.php:357
+msgid "View Listings"
+msgstr ""
+
+#: includes/templates/loop_property_single.php:413
+msgid "Sorry, no related properties were found."
+msgstr ""
+
+#: includes/templates/property-filter-minimal.php:106
+#: includes/templates/property-filter-minimal.php:268
+msgid "Advanced"
+msgstr ""
+
+#: includes/templates/property-listing-header.php:21
+msgid "properties found"
+msgstr ""
+
+#: includes/templates/property-listing-header.php:22
+msgid "Clear Filters"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:16
+msgid "List Properties"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:18
+msgid "Display your property listings"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:25
+msgid "Number of Properties"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:31
+msgid "Show Header"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:38 includes/wp-bakery/wp-bakery.php:204
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:45 includes/wp-bakery/wp-bakery.php:126
+msgid "Layout"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:52 includes/wp-bakery/wp-bakery.php:211
+msgid "Columns"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:61
+msgid "Enter the property status slug"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:67
+msgid "Enter the property type slug"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:73
+msgid "Enter the property neighborhood slug"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:79
+msgid "Enter the property city slug"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:85
+msgid "Enter the property state slug"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:89
+msgid "Filter By"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:99
+msgid "List Property Taxonomy"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:101
+msgid "Display property taxonomy terms"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:108
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:120
+msgid "Terms"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:122
+msgid ""
+"Comma separated list of term slugs. If left empty, all terms will display."
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:130
+msgid "Carousel"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:135
+msgid "Number of Terms"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:141
+msgid "Order By"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:150
+msgid "Order Direction"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:159
+msgid "Hide Empty Terms"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:162
+msgid "True"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:163
+msgid "False"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:173
+msgid "Display a property search filter"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:180
+msgid "Filter ID"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:182
+msgid ""
+"Filters can be created and edited <a href=\"/wp-admin/edit.php?post_type=ps-"
+"property-filter\" target=\"_blank\">here.</a>"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:189
+msgid "List Agents"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:191
+msgid "Display a list of agents"
+msgstr ""
+
+#: includes/wp-bakery/wp-bakery.php:198
+msgid "Number of Agents"
+msgstr ""
+
+#: propertyshift.php:136 propertyshift.php:167
+msgid "Delete"
+msgstr ""
+
+#: propertyshift.php:142
+msgid "Bedrooms:"
+msgstr ""
+
+#: propertyshift.php:146
+msgid "New Floor Plan"
+msgstr ""
+
+#: propertyshift.php:168
+msgid "Purchase Price"
+msgstr ""
+
+#: propertyshift.php:169
+msgid "Down Payment"
+msgstr ""
+
+#: propertyshift.php:170
+msgid "Percent"
+msgstr ""
+
+#: propertyshift.php:171
+msgid "Fixed"
+msgstr ""
+
+#: propertyshift.php:172
+msgid "Rate"
+msgstr ""
+
+#: propertyshift.php:173
+msgid "Term"
+msgstr ""
+
+#: propertyshift.php:174
+msgid "Years"
+msgstr ""
+
+#: propertyshift.php:175
+msgid "Months"
+msgstr ""
+
+#: propertyshift.php:176
+msgid "Calculate"
+msgstr ""
+
+#: propertyshift.php:177
+msgid "Your monthly payment:"
+msgstr ""
+
+#: propertyshift.php:178
+msgid "This field is required"
+msgstr ""

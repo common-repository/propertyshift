@@ -1,0 +1,26 @@
+/****************************************************************/
+/* PROPERTYSHIFT - ADMIN STYLESHEET
+/****************************************************************/
+
+/* TAXONOMY FIELDS */
+.tax-price-range-field label { width:120px !important; }
+.admin-module-tax-img .ns_upload_image_button { line-height:normal; }
+
+/* FLOOR PLANS */
+.floor-plan-left { width:47%; float:left; margin-right:5%; }
+.floor-plan-left label { width:28%; }
+.floor-plan-left input { margin-bottom:5px; }
+.floor-plan-right { width:47%; float:left; }
+.admin-module-floor-plans textarea { height:140px; }
+.admin-module-floor-plans .floor-plan-img input[type="text"] { margin-bottom:5px; }
+
+
+/** WP LIST TABLE **/
+.wp-list-table .attachment-thumbnail { border-radius:5px; width:100px; }
+.wp-list-table .agent-link { display:block; }
+.wp-list-table .agent-link img { width:35px; height:35px; margin-right:5px; margin-bottom:-12px; border-radius:100px; }
+
+/** RESPONSIVE **/
+@media only screen and (max-width: 750px) {
+	.floor-plan-left, .floor-plan-right { width:100%; float:none; }
+}
